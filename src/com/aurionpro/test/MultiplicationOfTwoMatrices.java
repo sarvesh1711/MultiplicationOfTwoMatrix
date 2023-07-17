@@ -24,3 +24,11 @@ System.out.print(c[i][j]+" ");
 System.out.println(); 
 }    
 }}  
+
+
+/*
+Output:
+802 835 868 
+1583 1649 1715 
+2293 2389 2485 
+*/
